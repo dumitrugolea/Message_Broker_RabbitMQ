@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tg+HU6wVCfAwyIcxNszMrAemqhYa4Mam5GAdXSD2oeJTZDeW2HL8mC1YmEUQeWkTg11E5+Bywo6MCNO4kUI5NQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DGOLEA\\Videos\\_Sophie\\RabitMQ\\FormulaAirline.TicketProcessing\\FormulaAirline.TicketProcessing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DGOLEA\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\DGOLEA\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\DGOLEA\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

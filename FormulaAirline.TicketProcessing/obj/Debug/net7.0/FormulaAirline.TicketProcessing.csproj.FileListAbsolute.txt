@@ -1,0 +1,17 @@
+C:\Users\DGOLEA\Videos\_Sophie\RabitMQ\FormulaAirline.TicketProcessing\bin\Debug\net7.0\FormulaAirline.TicketProcessing.exe
+C:\Users\DGOLEA\Videos\_Sophie\RabitMQ\FormulaAirline.TicketProcessing\bin\Debug\net7.0\FormulaAirline.TicketProcessing.deps.json
+C:\Users\DGOLEA\Videos\_Sophie\RabitMQ\FormulaAirline.TicketProcessing\bin\Debug\net7.0\FormulaAirline.TicketProcessing.runtimeconfig.json
+C:\Users\DGOLEA\Videos\_Sophie\RabitMQ\FormulaAirline.TicketProcessing\bin\Debug\net7.0\FormulaAirline.TicketProcessing.dll
+C:\Users\DGOLEA\Videos\_Sophie\RabitMQ\FormulaAirline.TicketProcessing\bin\Debug\net7.0\FormulaAirline.TicketProcessing.pdb
+C:\Users\DGOLEA\Videos\_Sophie\RabitMQ\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.csproj.AssemblyReference.cache
+C:\Users\DGOLEA\Videos\_Sophie\RabitMQ\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DGOLEA\Videos\_Sophie\RabitMQ\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.AssemblyInfoInputs.cache
+C:\Users\DGOLEA\Videos\_Sophie\RabitMQ\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.AssemblyInfo.cs
+C:\Users\DGOLEA\Videos\_Sophie\RabitMQ\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.csproj.CoreCompileInputs.cache
+C:\Users\DGOLEA\Videos\_Sophie\RabitMQ\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.dll
+C:\Users\DGOLEA\Videos\_Sophie\RabitMQ\FormulaAirline.TicketProcessing\obj\Debug\net7.0\refint\FormulaAirline.TicketProcessing.dll
+C:\Users\DGOLEA\Videos\_Sophie\RabitMQ\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.pdb
+C:\Users\DGOLEA\Videos\_Sophie\RabitMQ\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.genruntimeconfig.cache
+C:\Users\DGOLEA\Videos\_Sophie\RabitMQ\FormulaAirline.TicketProcessing\obj\Debug\net7.0\ref\FormulaAirline.TicketProcessing.dll
+C:\Users\DGOLEA\Videos\_Sophie\RabitMQ\FormulaAirline.TicketProcessing\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\DGOLEA\Videos\_Sophie\RabitMQ\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.csproj.CopyComplete
